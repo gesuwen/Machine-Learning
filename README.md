@@ -12,3 +12,8 @@ Some machine learning Implementation
 **MCMC.py** Implementation of Monte Carlo Markov Chain with PyMC3 library
 
 **VAE.py** A Variational Autoencoder trained on the MNIST dataset.
+
+## Unreinforcement learning
+**PCA_eigen_portfolio.py** Eigen-portfolio construction using Principal Component Analysis (PCA)
+
+**kernelPCA_tSNE_eigen_portfolio.py** Data visualization with KernelPCA and t-SNE
