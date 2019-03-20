@@ -13,7 +13,10 @@ Some machine learning Implementation
 
 **VAE.py** A Variational Autoencoder trained on the MNIST dataset.
 
-## Unreinforcement learning
+## Unsupervised learning
 **PCA_eigen_portfolio.py** Eigen-portfolio construction using Principal Component Analysis (PCA)
 
 **kernelPCA_tSNE_eigen_portfolio.py** Data visualization with KernelPCA and t-SNE
+
+## Reinforcement Learning
+**cross_entropy.py** Tabular cross entropy method on Openai gym Taxi-v2 example
