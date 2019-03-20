@@ -20,3 +20,5 @@ Some machine learning Implementation
 
 ## Reinforcement Learning
 **cross_entropy.py** Tabular cross entropy method on Openai gym Taxi-v2 example
+
+**deep_cross_entropy.py** Approximate cross entropy method with deep neural network by sklearn on Openai gym CartPole-v0 example
