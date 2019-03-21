@@ -26,3 +26,5 @@ Some machine learning Implementation
 **mdp_value_iteration.py** Solve a simple Markov Decision Processes and the Openai gym FrozenLake example by value iteration
 
 **vanilla_q.py** Implementation of vanilla Q-learning algorithm on OpenAI gym Taxi-v2 example and CartPole-v0 example (with binarized states)
+
+**sarsa.py** Expected Value SARSA with epsilon-greedy policy on OpenAI cliff Walking example
