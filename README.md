@@ -23,5 +23,6 @@ Some machine learning Implementation
 
 **deep_cross_entropy.py** Approximate cross entropy method with deep neural network by sklearn on Openai gym CartPole-v0 example
 
-
 **mdp_value_iteration.py** Solve a simple Markov Decision Processes and the Openai gym FrozenLake example by value iteration
+
+**vanilla_q.py** Implementation of vanilla Q-learning algorithm on OpenAI gym Taxi-v2 example and CartPole-v0 example (with binarized states)
