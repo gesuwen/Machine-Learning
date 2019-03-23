@@ -28,3 +28,7 @@ Some machine learning Implementation
 **vanilla_q.py** Implementation of vanilla Q-learning algorithm on OpenAI gym Taxi-v2 example and CartPole-v0 example (with binarized states)
 
 **sarsa.py** Expected Value SARSA with epsilon-greedy policy on OpenAI cliff Walking example
+
+**experience_replay.py** Use experience replay to train Q-learning and EV-SARSA on OpenAI gym Taxi-v2 example
+
+**approx_q.py** Build a neural network by keras/tensorflow for approximate Q learning on OpenAI gym CartPole-v0 example
