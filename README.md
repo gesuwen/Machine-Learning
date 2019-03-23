@@ -32,3 +32,5 @@ Some machine learning Implementation
 **experience_replay.py** Use experience replay to train Q-learning and EV-SARSA on OpenAI gym Taxi-v2 example
 
 **approx_q.py** Build a neural network by keras/tensorflow for approximate Q learning on OpenAI gym CartPole-v0 example
+
+**dqn_atari.py** Implementation of DQN with experience replay and target networks to play Atari breakout
