@@ -38,3 +38,5 @@ Some machine learning Implementation
 **policy_gradient.py** Implementation of a basic reinforce algorithm a.k.a. policy gradient for OpenAI gym CartPole-v0 environment
 
 **a3c.py** Use advantage actor-critic algorithm to play atari KungFuMaster
+
+**bandit.py** Implementation of several exploration strategies: Bernoulli Bandit, Epsilon-greedy agent, UCB Agent and Thompson sampling.
