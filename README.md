@@ -34,3 +34,7 @@ Some machine learning Implementation
 **approx_q.py** Build a neural network by keras/tensorflow for approximate Q learning on OpenAI gym CartPole-v0 example
 
 **dqn_atari.py** Implementation of DQN with experience replay and target networks to play Atari breakout
+
+**policy_gradient.py** Implementation of a basic reinforce algorithm a.k.a. policy gradient for OpenAI gym CartPole-v0 environment
+
+**a3c.py** Use advantage actor-critic algorithm to play atari KungFuMaster
