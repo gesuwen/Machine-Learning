@@ -2,7 +2,12 @@
 
 Some machine learning Implementation
 
+
+## Deep Learning
+
 **FullyConnected_CIFAR10.py** Fully connected neural network to classify CIFAR10 dataset written in numpy
+
+**linear_model_optimization.py** Implementation of a linear model, logistic regression, mini-batch SGD, momentum and RMSprop
 
 ## Bayesian methods for Machine Learning
 **EM_GMM.py** Implementation of Expectation-maximization algorithm on Gaussian Mixture Model
@@ -40,3 +45,5 @@ Some machine learning Implementation
 **a3c.py** Use advantage actor-critic algorithm to play atari KungFuMaster
 
 **bandit.py** Implementation of several exploration strategies: Bernoulli Bandit, Epsilon-greedy agent, UCB Agent and Thompson sampling.
+
+**actor_critic.py** Actor Critic algorithm to play OpenAI gym CartPole-v1
