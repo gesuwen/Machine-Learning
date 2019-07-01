@@ -23,6 +23,8 @@ Some machine learning Implementation
 
 **kernelPCA_tSNE_eigen_portfolio.py** Data visualization with KernelPCA and t-SNE
 
+**K-means parallel** K-means algorithm with Parallel computation in Scala
+
 ## Reinforcement Learning
 **cross_entropy.py** Tabular cross entropy method on Openai gym Taxi-v2 example
 
